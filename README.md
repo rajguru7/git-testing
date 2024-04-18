@@ -1,10 +1,8 @@
-* Ghostwriting
-  > Add extra common code to fool a signature but code remains functional
-* Encoding
-  > Applies types of encoding like Base64 or XOR. Also can encrypt and append a
-  > header with instructions to decrypt
-* Direct to memory
-  > Like Meterpreter! Does not write to file system, does not create a new process
-* Custom compile
-  > Compile from source, change options and code so it doesn't matching anything
-  > before
+1. Activities during incident response
+>  Identifying the 
+
+
+2. Difference between runbook and playbook
+>  Runbooks are your go-to if your team needs step-by-step instructions for
+>  certain tasks. On the other hand, playbooks have a broader focus and are
+>  great for teams that need to document more complex processes.
